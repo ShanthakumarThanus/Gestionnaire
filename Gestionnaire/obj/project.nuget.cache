@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RdvpISbiXreGnLAdRCSHmQfGQKxeRW95sfL/38mdLPJhv3/OhMYmj+jfvDzMpTPFzoZ4Ka1+2h4p/JQfEMim6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Theepiga\\source\\repos\\Gestionnaire\\Gestionnaire\\Gestionnaire.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Theepiga\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512"
+  ],
+  "logs": []
+}
