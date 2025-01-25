@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "RdvpISbiXreGnLAdRCSHmQfGQKxeRW95sfL/38mdLPJhv3/OhMYmj+jfvDzMpTPFzoZ4Ka1+2h4p/JQfEMim6w==",
+  "dgSpecHash": "0fW9uTfFmjE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Theepiga\\source\\repos\\Gestionnaire\\Gestionnaire\\Gestionnaire.csproj",
+  "projectFilePath": "C:\\Users\\PC\\Documents\\GitHub\\Gestionnaire\\Gestionnaire\\Gestionnaire.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Theepiga\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512"
+    "C:\\Users\\PC\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\mysqlconnector\\2.4.0\\mysqlconnector.2.4.0.nupkg.sha512"
   ],
   "logs": []
 }

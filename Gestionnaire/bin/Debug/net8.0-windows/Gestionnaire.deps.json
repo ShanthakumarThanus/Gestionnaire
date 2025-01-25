@@ -6,6 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
+      "Gestionnaire/1.0.0": {
+        "dependencies": {
+          "Dapper": "2.1.35",
+          "MySqlConnector": "2.4.0"
+        },
+        "runtime": {
+          "Gestionnaire.dll": {}
+        }
+      },
       "Dapper/2.1.35": {
         "runtime": {
           "lib/net7.0/Dapper.dll": {
@@ -48,6 +57,11 @@
     }
   },
   "libraries": {
+    "Gestionnaire/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Dapper/2.1.35": {
       "type": "package",
       "serviceable": true,

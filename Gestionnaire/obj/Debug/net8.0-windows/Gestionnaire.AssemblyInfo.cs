@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gestionnaire")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3fd339df26ca5d7355c2d5a0b27afcbc15d4ef9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gestionnaire")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gestionnaire")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

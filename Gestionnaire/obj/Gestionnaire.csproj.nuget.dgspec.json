@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Theepiga\\source\\repos\\Gestionnaire\\Gestionnaire\\Gestionnaire.csproj": {}
+    "C:\\Users\\PC\\Documents\\GitHub\\Gestionnaire\\Gestionnaire\\Gestionnaire.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Theepiga\\source\\repos\\Gestionnaire\\Gestionnaire\\Gestionnaire.csproj": {
+    "C:\\Users\\PC\\Documents\\GitHub\\Gestionnaire\\Gestionnaire\\Gestionnaire.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Theepiga\\source\\repos\\Gestionnaire\\Gestionnaire\\Gestionnaire.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Documents\\GitHub\\Gestionnaire\\Gestionnaire\\Gestionnaire.csproj",
         "projectName": "Gestionnaire",
-        "projectPath": "C:\\Users\\Theepiga\\source\\repos\\Gestionnaire\\Gestionnaire\\Gestionnaire.csproj",
-        "packagesPath": "C:\\Users\\Theepiga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Theepiga\\source\\repos\\Gestionnaire\\Gestionnaire\\obj\\",
+        "projectPath": "C:\\Users\\PC\\Documents\\GitHub\\Gestionnaire\\Gestionnaire\\Gestionnaire.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Documents\\GitHub\\Gestionnaire\\Gestionnaire\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Theepiga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -48,6 +53,10 @@
             "Dapper": {
               "target": "Package",
               "version": "[2.1.35, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.4.0, )"
             }
           },
           "imports": [
@@ -69,7 +78,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
